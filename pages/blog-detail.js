@@ -57,16 +57,16 @@ function blog() {
                             </div>
                             <div className="game-re">
                                 <h2>Alpha Release Time !</h2>
-                                <p>With the launch of our social media and publications, the only question is, &apos; When will the game be released?&apos;
+                                <p>With the launch of our social media and publications, the only question is, When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                        </div>
                             <div className="you-tube-img">
                                 <img className="tube" src="img/Group 4357.png" />
                             </div>
-                            <p>With the launch of our social media and publications, the only question is, &apos; When will the game be released?&apos;
+                            <p>With the launch of our social media and publications, the only question is, When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                       
                             <div className="table-responsive">
                                 <div className="container">
@@ -118,9 +118,9 @@ function blog() {
 
 
                             <div className="lonch">
-                            <p>With the launch of our social media and publications, the only question is, &apos; When will the game be released?&apos;
+                            <p>With the launch of our social media and publications, the only question is When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                                 <h6 className="post-date oct">Posted: 14 oct 22</h6>
                             </div>
 
@@ -140,9 +140,9 @@ function blog() {
                                     </div>
                                     <div className="alfa-lp">
                                         <h4>Alpha Release Time !</h4>
-                                        <p>With the launch of our social media and publications, the only question is, &apos; When will the game be released?&apos;
+                                        <p>With the launch of our social media and publications, the only question is, When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                                  <h6 className="post-date post">Posted: 14 oct 22</h6>
                                     </div>
                                 </div>
@@ -153,9 +153,9 @@ function blog() {
                                     </div>
                                     <div className="alfa-lp">
                                         <h4>Alpha Release Time !</h4>
-                                        <p>With the launch of our social media and publications, the only question is, &apos; When will the game be released?&apos;
+                                        <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                                   <h6 className="post-date post">Posted: 14 oct 22</h6>
                                     </div>
                                 </div>
@@ -166,9 +166,9 @@ function blog() {
                                     </div>
                                     <div className="alfa-lp">
                                         <h4>Alpha Release Time !</h4>
-                                        <p>With the launch of our social media and publications, the only question is, &apos; When will the game be released?&apos;
+                                        <p>With the launch of our social media and publications, the only question is, When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                                 <h6 className="post-date post">Posted: 14 oct 22</h6>
                                     </div>
                                 </div>
@@ -179,9 +179,9 @@ function blog() {
                                     </div>
                                     <div className="alfa-lp">
                                         <h4>Alpha Release Time !</h4>
-                                        <p>With the launch of our social media and publications, the only question is, &apos; When will the game be released?&apos;
+                                        <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                                 <h6 className="post-date post">Posted: 14 oct 22</h6>
                                     </div>
                                 </div>
@@ -219,9 +219,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos; When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                                 <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
@@ -236,9 +236,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                                 <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
@@ -253,9 +253,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                                 <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
@@ -270,9 +270,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>
                                                 <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
@@ -287,9 +287,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is;When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>   <h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>   <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -303,9 +303,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -326,9 +326,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p>  <h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p>  <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -342,9 +342,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -358,9 +358,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -384,9 +384,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p><h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p><h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -400,9 +400,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p><h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p><h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -427,9 +427,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p><h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p><h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -443,9 +443,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -459,9 +459,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -475,9 +475,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -491,9 +491,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 
@@ -507,9 +507,9 @@ function blog() {
                                             </div>
                                             <div className="alfa-lp">
                                                 <h4>Alpha Release Time !</h4>
-                                                <p>With the launch of our social media and publications, the only question is, &apos;When will the game be released?&apos;
+                                                <p>With the launch of our social media and publications, the only question is,When will the game be released?&apos;
                                                     MBG plans to release the game in stages and versions such as alpha - first release, beta - second release, release and versions - which will be the final release and then MBG will release the latest updates through release versions.
-                                                    Regarding the debut of MBG, the full steps of the game&apos;s release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
+                                                    Regarding the debut of MBG, the full steps of the games release will be announced when the roadmap is released</p> <h6 className="post-date">Posted: 14 oct 22</h6>
                                             </div>
                                             <div className="tab1-content">
 

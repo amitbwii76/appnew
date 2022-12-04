@@ -634,7 +634,7 @@ const countryChange = (e) => {
         <section>
           <div className='row mt-5 pt-5 mb-5 pb-5 newsletter' id='news-letter'>
             <div className='col-12 text-white' data-aos="fade-right" data-aos-delay="400" data-aos-duration="800">
-              <h2>We&apos;re   <br />Listening </h2>
+              <h2>We are   <br />Listening </h2>
             </div>
             <div className='col-lg-12 col-md-12 col-12'>
               
